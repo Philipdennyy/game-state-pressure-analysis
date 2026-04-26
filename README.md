@@ -75,7 +75,7 @@ The analysis is visualized using Power BI:
 ---
 
 ## 🛠️ Tech Stack
-- Python (Pandas, NumPy)
+- Python 
 - Jupyter Notebook
 - Power BI
 - Data Visualization
@@ -85,12 +85,12 @@ The analysis is visualized using Power BI:
 ## ⚙️ How to Run
 
 1. Open the Jupyter Notebook:
-   notebooks/pressure_analysis.ipynb  
+   pressure_analysis.ipynb  
 
 2. Run all cells to generate pressure metrics  
 
 3. Open Power BI file:
-   dashboard/powerbi_dashboard.pbix  
+   powerbi_dashboard.pbix  
 
 ---
 
