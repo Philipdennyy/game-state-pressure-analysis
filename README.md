@@ -70,7 +70,7 @@ The analysis is visualized using Power BI:
 - Pressure distribution across teams  
 
 📷 Preview:
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
@@ -79,26 +79,6 @@ The analysis is visualized using Power BI:
 - Jupyter Notebook
 - Power BI
 - Data Visualization
-
----
-
-## 📁 Project Structure
-
-game-state-pressure-analysis/
-│
-├── data/
-│   └── match_events.csv
-│
-├── notebooks/
-│   └── pressure_analysis.ipynb
-│
-├── dashboard/
-│   └── powerbi_dashboard.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
 
 ---
 
